@@ -1,7 +1,7 @@
-package com.rbattezzati.carrental.service;
+package com.rbattezzati.carrental.service.carrental;
 
 import com.rbattezzati.carrental.model.car.CarType;
-import com.rbattezzati.carrental.model.inventory.InventoryService;
+import com.rbattezzati.carrental.service.inventory.InventoryService;
 import com.rbattezzati.carrental.model.reservation.Reservation;
 import lombok.RequiredArgsConstructor;
 
